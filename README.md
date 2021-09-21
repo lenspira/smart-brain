@@ -1,5 +1,5 @@
 # Smart Brain Face Detection App
-This app takes image URLs and uses Clarifai's face recognition API to highlight faces in those images. To use the app, the user must first register. The app keeps track of every user's submissions and shows the user's total number of submissions upon successful login.
+> A face-detection app that takes image URLs and uses Clarifai's face recognition API to highlight faces in those images. To use the app, the user must first register. The app keeps track of every user's submissions and shows the user's total number of submissions upon successful login.
 
 ## Features
 * Face detection via image URL
@@ -9,7 +9,7 @@ This app takes image URLs and uses Clarifai's face recognition API to highlight 
 ## Install dependencies
 ```
 # Clone the repo, then install dependencies in root folder
-npm intall
+npm install
 ```
 
 :exclamation: The backend code is in a separate repo (https://github.com/lenspira/smart-brain-api) - make sure to clone it as well to run the app.
